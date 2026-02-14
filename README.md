@@ -16,7 +16,4 @@ I’m currently working on<br>AI-powered real-world projects, Full Stack develop
 ![](https://github-contributor-stats.vercel.app/api?username=PrudhviRaavi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PrudhviRaavi&icon=0&color=0" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=PrudhviRaavi&label=Profile%20views&color=0e75b6&style=flat)
