@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **raaviprudhvi1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ucKIzAlv5Zw0va0K3lho5sY6qGUUSWHg/view?usp=sharing](https://drive.google.com/file/d/1ucKIzAlv5Zw0va0K3lho5sY6qGUUSWHg/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ucKIzAlv5Zw0va0K3lho5sY6qGUUSWHg/view?usp=sharing](https://drive.google.com/file/d/1BAnEkfkfuKxC5vRdXOYka56ZZQp3Pcwl/view?usp=sharing)
 
 - ⚡ Fun fact **I love turning ideas into working prototypes especially in hackathons where creativity, pressure, and teamwork come together.**
 
