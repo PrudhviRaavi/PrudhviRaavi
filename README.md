@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./developer_desk.png" width="400px" alt="Developer at Desk" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Prudhvi+Krishna+Raavi;Full+Stack+Developer;AI+Engineer;Building+Digital+Futures" alt="Typing SVG" /></a>
 </p>
 
@@ -45,7 +49,52 @@
 
 ---
 
-<h2 align="center">📈 Contribution Activity Trends</h2>
+<h2 align="center">💻 Technologies & Tools</h2>
+
+<p align="center">
+  <b>Languages & Core</b><br/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Frontend Development</b><br/>
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Backend & AI</b><br/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Cloud & Infrastructure</b><br/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/githubactions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">📊 Real-time GitHub Insights</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrudhviRaavi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrudhviRaavi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrudhviRaavi&theme=tokyonight" width="100%" />
@@ -70,19 +119,6 @@
   <a href="https://github.com/PrudhviRaavi/Bill-Guard-AI">
     <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=PrudhviRaavi&repo=Bill-Guard-AI&theme=tokyonight" alt="Bill-Guard-AI" />
   </a>
-</p>
-
----
-
-<h2 align="center">📊 Overall Stats</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrudhviRaavi&theme=tokyonight" alt="Profile Details" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrudhviRaavi&theme=tokyonight" alt="Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrudhviRaavi&theme=tokyonight" alt="Top Langs" width="48%" />
 </p>
 
 ---
