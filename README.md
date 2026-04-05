@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./developer_desk.png" width="400px" alt="Developer at Desk" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Prudhvi+Krishna&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Prudhvi+Krishna+Raavi;Full+Stack+Developer;AI+Engineer;Building+Digital+Futures" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Digital+Futures" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -13,11 +13,23 @@
   <img src="https://img.shields.io/badge/Stars-45-7928CA?style=for-the-badge&logo=github" height="30" />
 </p>
 
-<p align="center">
-  <img src="./terminal_profile.svg" width="850" alt="Terminal Profile" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+## <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/assets/images/human.gif" width="35"> About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+- 👋 Hi, I’m **Prudhvi Krishna Raavi**
+- 🎓 Final Year Student & Aspiring AI Engineer
+- 💻 Passionate about **Full Stack Development** & **Artificial Intelligence**
+- 🚀 Expert in building high-performance, AI-integrated web applications
+- 📚 Currently exploring **Deep Learning** & **Cloud Architecture**
+- 💬 Ask me about **FastAPI, React, or LLMs**
+- ⚡ Fun fact: I build apps faster than I drink caffeine!
+
+<br clear="right">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">💎 Core Expertise (3D Isometric)</h2>
 
@@ -47,7 +59,7 @@
   <img src="https://img.shields.io/badge/ADAPTABILITY-20B2AA?style=for-the-badge" height="25" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">💻 Technologies & Tools</h2>
 
@@ -87,20 +99,21 @@
   <img src="https://img.shields.io/badge/githubactions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">📊 Real-time GitHub Insights</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrudhviRaavi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrudhviRaavi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrudhviRaavi&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrudhviRaavi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrudhviRaavi&theme=tokyonight" width="100%" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -108,7 +121,7 @@
   <img src="https://raw.githubusercontent.com/PrudhviRaavi/PrudhviRaavi/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">🚀 Featured Repositories</h2>
 
@@ -121,7 +134,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <p align="center">
   Built with curiosity, caffeine, and a little bit of chaos ☕ ⚡
