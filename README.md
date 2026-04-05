@@ -21,7 +21,7 @@
 
 <p align="center"><img src="./blue_divider.gif" width="100%"></p>
 
-## 👨‍💻 About Me
+## 💫 About Me
 
 <p align="center">
   <img src="./terminal_profile.svg" width="650" alt="Macbook Terminal" />
