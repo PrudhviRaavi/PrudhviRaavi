@@ -23,24 +23,11 @@
 
 ## 👨‍💻 About Me
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="./terminal_profile.svg" width="100%" alt="Macbook Terminal" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./terminal_profile.svg" width="650" alt="Macbook Terminal" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
+</p>
 
-- 👋 Hi, I’m **Prudhvi Krishna Raavi**
-- 🎓 Final Year Student & Aspiring AI Engineer
-- 💻 Passionate about **Full Stack Development** & **Artificial Intelligence**
-- 🚀 Expert in building high-performance, AI-integrated web applications
-- 📚 Currently exploring **Deep Learning** & **Cloud Architecture**
-- 💬 Ask me about **FastAPI, React, or LLMs**
-- ⚡ Fun fact: I build apps faster than I drink caffeine!
 
 <p align="center"><img src="./blue_divider.gif" width="100%"></p>
 
