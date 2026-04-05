@@ -19,7 +19,7 @@
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 ## 👨‍💻 About Me
 
@@ -42,7 +42,7 @@
 - 💬 Ask me about **FastAPI, React, or LLMs**
 - ⚡ Fun fact: I build apps faster than I drink caffeine!
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 <h2 align="center">💎 Core Expertise</h2>
 
@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/ADAPTABILITY-20B2AA?style=for-the-badge" height="25" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 <h2 align="center">💻 Technologies & Tools</h2>
 
@@ -111,7 +111,7 @@
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 <h2 align="center">📊 GitHub Insights</h2>
 
@@ -124,7 +124,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrudhviRaavi&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -132,7 +132,7 @@
   <img src="https://raw.githubusercontent.com/PrudhviRaavi/PrudhviRaavi/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 <h2 align="center">🚀 Featured Repositories</h2>
 
@@ -145,7 +145,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 <p align="center">
   Built with curiosity, caffeine, and a little bit of chaos ☕ ⚡
