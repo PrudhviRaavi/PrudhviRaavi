@@ -1,24 +1,23 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F7F7,100:0000ff&height=200&section=header&text=Prudhvi+Krishna&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header" />
-</p>
+<div align="center">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/prudhvi-krishna-raavi-64484a315" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/raaviprudhvi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/prudhviraavi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-<a href="mailto:raaviprudhvi1@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="30" width="40" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F7F7,100:0000ff&height=200&section=header&text=Prudhvi%20Krishna&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Digital+Futures" alt="Typing SVG" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrudhviRaavi&color=00F7F7&style=for-the-badge&label=Profile+Views" height="30" />
-  <img src="https://img.shields.io/badge/Repositories-10-00F7F7?style=for-the-badge&logo=github" height="30" />
-  <img src="https://img.shields.io/badge/Followers-3-00F7F7?style=for-the-badge&logo=github" height="30" />
-  <img src="https://img.shields.io/badge/Stars-0-00F7F7?style=for-the-badge&logo=github" height="30" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Digital+Futures)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prudhvi-krishna-raavi-64484a315)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/raaviprudhvi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raaviprudhvi1@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=PrudhviRaavi&label=Profile%20Views&color=00F7F7&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/PrudhviRaavi?style=flat-square&color=00F7F7)
+
+</div>
 
 ---
 
