@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F7F7,100:0000ff&height=200&section=header&text=Prudhvi%20Krishna&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0000ff&height=200&section=header&text=Prudhvi%20Krishna&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header" />
 
 <br/>
 
