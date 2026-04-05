@@ -14,8 +14,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PrudhviRaavi&label=Profile%20Views&color=00F7F7&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/PrudhviRaavi?style=for-the-badge&color=00F7F7&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=PrudhviRaavi&label=Profile%20Views&color=0077B5&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/PrudhviRaavi?style=for-the-badge&color=0077B5&label=Followers)
 
 </div>
 
@@ -23,10 +23,24 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img src="./terminal_profile.svg" width="48%" alt="Macbook Profile" />
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="48%" alt="Coding Animation" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./terminal_profile.svg" width="100%" alt="Macbook Terminal" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
+
+- 👋 Hi, I’m **Prudhvi Krishna Raavi**
+- 🎓 Final Year Student & Aspiring AI Engineer
+- 💻 Passionate about **Full Stack Development** & **Artificial Intelligence**
+- 🚀 Expert in building high-performance, AI-integrated web applications
+- 📚 Currently exploring **Deep Learning** & **Cloud Architecture**
+- 💬 Ask me about **FastAPI, React, or LLMs**
+- ⚡ Fun fact: I build apps faster than I drink caffeine!
 
 ---
 
