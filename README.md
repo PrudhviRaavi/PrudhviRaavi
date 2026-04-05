@@ -1,23 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Prudhvi+Krishna&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F7F7,100:0000ff&height=200&section=header&text=Prudhvi+Krishna&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Digital+Futures" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/prudhvi-krishna-raavi-64484a315" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/raaviprudhvi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/prudhviraavi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+<a href="mailto:raaviprudhvi1@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrudhviRaavi&color=8839ef&style=for-the-badge&label=Profile+Views" height="30" />
-  <img src="https://img.shields.io/badge/Repositories-23+-ff69b4?style=for-the-badge&logo=github" height="30" />
-  <img src="https://img.shields.io/badge/Followers-61-blue?style=for-the-badge&logo=github" height="30" />
-  <img src="https://img.shields.io/badge/Stars-45-7928CA?style=for-the-badge&logo=github" height="30" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Digital+Futures" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrudhviRaavi&color=00F7F7&style=for-the-badge&label=Profile+Views" height="30" />
+  <img src="https://img.shields.io/badge/Repositories-10-00F7F7?style=for-the-badge&logo=github" height="30" />
+  <img src="https://img.shields.io/badge/Followers-3-00F7F7?style=for-the-badge&logo=github" height="30" />
+  <img src="https://img.shields.io/badge/Stars-0-00F7F7?style=for-the-badge&logo=github" height="30" />
+</p>
 
-## <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/assets/images/human.gif" width="35"> About Me
+---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+## 👨‍💻 About Me
+
+<p align="center">
+  <img src="./terminal_profile.svg" width="48%" alt="Macbook Profile" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="48%" alt="Coding Animation" />
+</p>
 
 - 👋 Hi, I’m **Prudhvi Krishna Raavi**
 - 🎓 Final Year Student & Aspiring AI Engineer
@@ -27,11 +37,9 @@
 - 💬 Ask me about **FastAPI, React, or LLMs**
 - ⚡ Fun fact: I build apps faster than I drink caffeine!
 
-<br clear="right">
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h2 align="center">💎 Core Expertise (3D Isometric)</h2>
+<h2 align="center">💎 Core Expertise</h2>
 
 <table align="center" border="0">
   <tr>
@@ -59,7 +67,7 @@
   <img src="https://img.shields.io/badge/ADAPTABILITY-20B2AA?style=for-the-badge" height="25" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 <h2 align="center">💻 Technologies & Tools</h2>
 
@@ -96,12 +104,11 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/githubactions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-<h2 align="center">📊 Real-time GitHub Insights</h2>
+<h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrudhviRaavi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -109,11 +116,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrudhviRaavi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrudhviRaavi&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrudhviRaavi&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -121,7 +127,7 @@
   <img src="https://raw.githubusercontent.com/PrudhviRaavi/PrudhviRaavi/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 <h2 align="center">🚀 Featured Repositories</h2>
 
@@ -134,17 +140,10 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 <p align="center">
   Built with curiosity, caffeine, and a little bit of chaos ☕ ⚡
   <br/>
   <b>🌟 Star some repos if you find them useful — it means a lot!</b>
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/prudhvi-krishna-raavi-64484a315" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="PrudhviKrishnaRaavi" height="30" width="40" /></a>
-<a href="https://instagram.com/raaviprudhvi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raaviprudhvi" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/prudhviraavi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-<a href="mailto:raaviprudhvi1@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="30" width="40" /></a>
 </p>
