@@ -13,9 +13,9 @@
 
   <text x="40" y="115" fill="#F38BA8" font-family="monospace" font-size="14">def <tspan fill="#89B4FA">__init__</tspan><tspan fill="#CDD6F4">(self):</tspan></text>
   <text x="60" y="140" fill="#CDD6F4" font-family="monospace" font-size="14">self.name      = <tspan fill="#A6E3A1">"Prudhvi Krishna Raavi"</tspan></text>
-  <text x="60" y="160" fill="#CDD6F4" font-family="monospace" font-size="14">self.degree    = <tspan fill="#A6E3A1">"B.Tech CSE (AI &amp; ML)"</tspan></text>
-  <text x="60" y="180" fill="#CDD6F4" font-family="monospace" font-size="14">self.skills    = <tspan fill="#CDD6F4">[</tspan><tspan fill="#A6E3A1">"Python", "FastAPI", "React", "AI"</tspan><tspan fill="#CDD6F4">]</tspan></text>
-  <text x="60" y="200" fill="#CDD6F4" font-family="monospace" font-size="14">self.interests = <tspan fill="#CDD6F4">[</tspan><tspan fill="#A6E3A1">"Cloud Architecture", "Deep Learning"</tspan><tspan fill="#CDD6F4">]</tspan></text>
+  <text x="60" y="160" fill="#CDD6F4" font-family="monospace" font-size="14">self.degree    = <tspan fill="#A6E3A1">"B.Tech CSE (AI &amp; DS)"</tspan></text>
+  <text x="60" y="180" fill="#CDD6F4" font-family="monospace" font-size="14">self.skills    = <tspan fill="#CDD6F4">[</tspan><tspan fill="#A6E3A1">"Python", "Full Stack Dev", "AI Engineering"</tspan><tspan fill="#CDD6F4">]</tspan></text>
+  <text x="60" y="200" fill="#CDD6F4" font-family="monospace" font-size="14">self.interests = <tspan fill="#CDD6F4">[</tspan><tspan fill="#A6E3A1">"Cloud Architecture", "Data Engineering", "Web3"</tspan><tspan fill="#CDD6F4">]</tspan></text>
   
   <text x="40" y="235" fill="#F38BA8" font-family="monospace" font-size="14">def <tspan fill="#89B4FA">say_hi</tspan><tspan fill="#CDD6F4">(self):</tspan></text>
   <text x="60" y="260" fill="#89B4FA" font-family="monospace" font-size="14">print<tspan fill="#CDD6F4">(</tspan><tspan fill="#A6E3A1">"Thanks for dropping by! Let's build together 🚀"</tspan><tspan fill="#CDD6F4">)</tspan></text>
@@ -23,9 +23,7 @@
   <text x="20" y="300" fill="#CDD6F4" font-family="monospace" font-size="14">me = PrudhviRaavi()</text>
   <text x="20" y="325" fill="#CDD6F4" font-family="monospace" font-size="14">me.say_hi()</text>
 
-  <text x="20" y="355" fill="#11A8CD" font-family="monospace" font-size="14">Thanks for dropping by! Let's build together 🚀</text>
-
-  <rect x="20" y="365" width="10" height="15" fill="#CDD6F4">
+  <rect x="20" y="355" width="10" height="15" fill="#CDD6F4">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
   </rect>
 </svg>
